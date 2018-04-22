@@ -1,6 +1,6 @@
 <?php
-define('CLIENT_ID','576508015623-34t6r4sm6n88r0ou0q43c5vat4431v0q.apps.googleusercontent.com');
-define('SECRET','OTfMopSTrFK7yUohatF_vRuT');
-define('JSON_FILE','web_client_secret.json');
-define('ACCESS_TOKEN','');
-define('AUTH_REDIRECT_URI','http://localhost/google_client_api/setAccessToken.php');
+define('CLIENT_ID','923757387060-s2uscd96d45m87a6b9k5obf62j5k6jlj.apps.googleusercontent.com');
+define('SECRET','ufHmy5_VVfYYVDzMk4C7jVXI');
+define('JSON_FILE','client_secrets.json');
+define('ACCESS_TOKEN','ya29.GlulBTEWpw0la9OZXF4VEWhMJvCXh8mtvyq9-jzbA5oEaKwKE6dZBIbU0U-jAEYgCXNWRFlVDBZe1IXDCAvFrtgmmWzxxjPiOE8e0f66F_zZzQAh2ccRvdWzUZwC');
+define('AUTH_REDIRECT_URI','http://localhost/google_plus_api_examples/setAccessToken.php');
