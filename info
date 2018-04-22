@@ -1,0 +1,6 @@
+Google Tutorial page:
+https://developers.google.com/youtube/v3/quickstart/php
+
+
+Check is your google token has been exprired{
+https://www.googleapis.com/oauth2/v1/tokeninfo?access_token={ACCESS_TOKEN}
